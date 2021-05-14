@@ -1,4 +1,4 @@
-####CLI-App Naruto-Friends-Quiz
+#**CLI-App Naruto-Friends-Quiz**
 
 Hi! This application tests your knowledge about Naruto or F.R.I.E.N.D.S tv series, depending on the option you choose.
 
@@ -7,7 +7,7 @@ Hi! This application tests your knowledge about Naruto or F.R.I.E.N.D.S tv serie
 3. Your score gets incremented by 1 for each correct answer and you are awarded a score of 0 for each wrong answer. So no negative marking.
 4. If you get a perfect 10, your name gets added to the list of top-scorers, and gets displayed for you. Either way you can even send me a screenshot of getting a perfect 10 and I'll add your name as well.
 
-#Software/Tools and Libraries Used
+#**Software/Tools and Libraries Used**
 
 1. Repl.it
 2. NPM CHALK
