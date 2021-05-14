@@ -1,4 +1,4 @@
-#CLI-App Naruto-Friends-Quiz
+####CLI-App Naruto-Friends-Quiz
 
 Hi! This application tests your knowledge about Naruto or F.R.I.E.N.D.S tv series, depending on the option you choose.
 
